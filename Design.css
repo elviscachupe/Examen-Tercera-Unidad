@@ -1,0 +1,54 @@
+.primeraparte{
+background-color: rgb(191, 221, 227);
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+.subtitulos{
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    margin: 10px;
+}
+
+.Tema{
+    display: flex;
+    justify-content: center;
+}
+
+.CTema{
+    display: flex;
+    justify-content: center;
+
+}
+
+.img__golden{
+    width: 400px;
+    height: 590px;
+    display: flex;
+    justify-content: center;
+}
+
+.Golden{
+    display: flex;
+    justify-content: center;
+}
+
+.botoncito{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.diseno{
+    background-color: rgb(95, 166, 228);
+    border: 0px;
+    border-radius: 10px 10px 10px 10px;
+    width: 200px;
+    margin-bottom: 70px;
+}
